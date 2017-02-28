@@ -1,0 +1,17 @@
+{
+  "name": "3srender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browserify": "^13.3.0",
+    "canvas": "^1.6.4",
+    "three": "^0.82.1",
+    "three-loaders-collada": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
